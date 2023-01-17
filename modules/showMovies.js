@@ -1,4 +1,5 @@
 import { getLikes } from './involvementApi.js';
+import { popupCommentListener } from './commentItemPopup.js';
 
 const mainPage = document.querySelector('.main-js-page');
 
@@ -41,6 +42,10 @@ const showMovies = async (data) => {
     movieDisplay.append(Img, movieDescript);
     mainPage.appendChild(movieDisplay);
 
+    commentBtn.addEventListener('click', () => {
+      const container = document.querySelector('.popup');
+      popupCommentListener(container, data[i].id);
+    });
     const updateLikes = async () => {
       const response = await getLikes();
       const counts = document.querySelectorAll('.rateCounts');
