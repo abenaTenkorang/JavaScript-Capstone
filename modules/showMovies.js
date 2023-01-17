@@ -1,5 +1,5 @@
 import { getLikes } from './involvementApi.js';
-import { popupCommentListener } from './commentItemPopup.js';
+// import { popupCommentListener } from './commentItemPopup.js';
 
 const mainPage = document.querySelector('.main-js-page');
 
