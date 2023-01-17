@@ -1,3 +1,5 @@
+import { getLikes } from './involvementApi.js';
+
 const mainPage = document.querySelector('.main-js-page');
 
 const showMovies = async (data) => {
@@ -38,6 +40,21 @@ const showMovies = async (data) => {
     movieDescript.append(commentBtn);
     movieDisplay.append(Img, movieDescript);
     mainPage.appendChild(movieDisplay);
+
+    const updateLikes = async () => {
+      const response = await getLikes();
+      const counts = document.querySelectorAll('.rateCounts');
+
+      counts.forEach((button) => {
+        response.forEach((res) => {
+          if (button.id === res.item_id) {
+            button.textContent = res.likes;
+          }
+        });
+      });
+      stats.append(likeCount);
+    };
+    updateLikes();
   }
 };
 export default showMovies;
