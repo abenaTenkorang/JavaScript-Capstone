@@ -1,4 +1,4 @@
-* {
+﻿* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -311,7 +311,6 @@ h4 {
   width: 16rem;
 }
 
-
 /* media querries */
 @media (max-width: 600px) {
   .main-js-page {
@@ -324,4 +323,3 @@ h4 {
     padding: 30px;
   }
 }
-
