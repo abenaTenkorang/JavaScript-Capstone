@@ -1,4 +1,4 @@
-﻿import './style.css';
+import './style.css';
 import getData from '../modules/getdata.js';
 import showMovies from '../modules/showMovies.js';
 
