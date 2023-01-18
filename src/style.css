@@ -50,6 +50,10 @@ body {
   width: 70%;
 }
 
+.btn-srch {
+  cursor: pointer;
+}
+
 .nav-m .nav-items li a {
   margin-left: 25px;
   text-decoration: none;
