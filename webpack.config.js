@@ -15,6 +15,7 @@ module.exports = {
       },
     ],
   },
+  // testEnvironment: "jsdom",
   plugins: [
     new HtmlWebpackPlugin({
       template: path.resolve(__dirname, 'src', 'index.html'),
