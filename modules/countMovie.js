@@ -10,5 +10,3 @@ const count = async () => {
 };
 
 count();
-
-export {count} ;
