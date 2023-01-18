@@ -46,6 +46,10 @@ body {
   background-position: center;
 }
 
+.search-input {
+  width: 70%;
+}
+
 .nav-m .nav-items li a {
   margin-left: 25px;
   text-decoration: none;
