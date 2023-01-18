@@ -28,7 +28,7 @@
   - [📝 License ](#-license-)
 
 # 📖 Javascript  Capstone <a name="about-project"></a>
-#description
+It's an online entertainment streaming source for TV shows, movies. All data is preserved thanks to the external tvmaze API service.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -75,10 +75,12 @@
 ## 👥  Team
 - [ ] [Monicah](https://github.com/monicah79)
 
+- [ ] [abenaTenkorang](https://github.com/abenaTenkorang)
 
 ## 🚀 Code Review link
 
 - [Monicah](https://github.com/abenaTenkorang/JavaScript-Capstone/pull/25)
+- [abenaTenkorang](https://github.com/abenaTenkorang/JavaScript-Capstone/pull/24)
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -135,6 +137,12 @@ gh-pages
 - GitHub: [@monicah79](https://github.com/monicah79)
 - LinkedIn: [monica-wanjema-079192193](https://linkedin.com/in/monica-wanjema-079192193)
 
+👤 **Abigail Gyamfuaa Boateng**
+
+- GitHub: [@AbenaTenkorang](https://github.com/abenaTenkorang)
+- Twitter: [@Abi1_boateng](https://twitter.com/Abi1_boateng)
+- LinkedIn: [Abigail Boateng](https://www.linkedin.com/in/abigail-boateng-345395141/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,7 +156,7 @@ gh-pages
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Progress2002/LuxoPremier/issues).
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
