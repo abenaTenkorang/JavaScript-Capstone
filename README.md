@@ -68,7 +68,7 @@ It's an online entertainment streaming source for TV shows, movies. All data is 
 
 ## 🚀 Live Demo <a name="live-demo" id="-live-video-"></a>
 
-- [Live Demo Link]
+- [Live Demo Link](https://abenaTenkorang.github.io/JavaScript-Capstone/dist)
 
 ## 🚀 Project Details
 
