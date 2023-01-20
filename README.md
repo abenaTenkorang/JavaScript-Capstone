@@ -8,7 +8,6 @@
   - [🛠 Built With ](#-built-with-)
   - [Tech Stack ](#tech-stack-)
    - [Key Features ](#key-features-)
-  - [🚀 Presentaton Link ](#-presentaton-link-)
   - [🚀 Live Demo ](#-live-video-)
   - [🚀 Project Details](#-project-details)
   - [👥  Team](#--team)
@@ -63,8 +62,6 @@ It's an online entertainment streaming source for TV shows, movies. All data is 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Presentaton Link <a name="live-demo" id="-presentaton-link-"></a>
 
 ## 🚀 Live Demo <a name="live-demo" id="-live-video-"></a>
 
@@ -176,24 +173,10 @@ Please give a ⭐️ if you like this project! 🤝
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-- **How to generate a new key for the API?**
-
-- Open VScode and generate a key by using the following command
-
-```
-
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]([./LICENSE] licensed.
+This project is [MIT](https://github.com/abenaTenkorang/Todo-list/blob/main/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
