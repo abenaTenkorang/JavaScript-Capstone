@@ -237,7 +237,8 @@ footer {
   justify-content: center;
   align-items: center;
   margin-top: 15px;
-  width: 200px;
+  width: 400px;
+  margin-left: 24rem;
 }
 
 .spec {
