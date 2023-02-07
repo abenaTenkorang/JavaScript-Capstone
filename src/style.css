@@ -51,6 +51,10 @@ body {
   height: 35px;
 }
 
+img {
+  width: 100%;
+}
+
 .btn-srch {
   cursor: pointer;
 }
@@ -233,6 +237,7 @@ footer {
   justify-content: center;
   align-items: center;
   margin-top: 15px;
+  width: 200px;
 }
 
 .spec {

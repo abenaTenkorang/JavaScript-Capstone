@@ -104,8 +104,8 @@ export const popupCommentListener = async (container, id) => {
   commentForm.id = 'comment-form';
 
   commentForm.innerHTML = `
-  <input type='text' name='username' id='username' placeholder='Your name here...' />
-  <textarea name='comment' id='comment' placeholder= 'Your comments here...' ></textarea>
+  <input type='text' name='username' id='username' placeholder='Your name here...' required /> 
+  <textarea name='comment' id='comment' placeholder= 'Your comments here...' required ></textarea>
   <button type='submit' id='submit'>Submit</button>
   `;
 
